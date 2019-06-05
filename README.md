@@ -1,7 +1,7 @@
 # Tlacuaches Project
 
 ### Is finally back!
-This is the second edition of the Tlacuaches project! , last time it was a total success :D
+This is the second edition of the Tlacuaches project!
 
 The main idea of this project is to help people to get up to speed on Cloud technologies, I think Mexico has a huge potential on this area and I'd like to contribute with something back.
 I'll dedicate one hour per week for 7 weeks period to people who is ambicious enough to learn new stuff and accept new challenges, and probably create an startup or get hired.
@@ -12,7 +12,7 @@ I'll provide
 - One hour of my precious life per week for a live session
 - A hangouts link
 - Challenges, Fun
-- Sysadmins, Devs, DevOps to join on some sessions and bright us with their knowledge
+- Sysads, Devs, DevOps to join on some sessions and bright us with their knowledge
 - More Fun
 
 This has NO COST, and I do not accept or make any money, this is just a simple FREE initiative.
@@ -27,7 +27,7 @@ yazpik@gmail.com
 ## Motivation
 
 Tlacuaches project is a non profit initiative, the main reason is help others to have better opportunities
-
+See also our [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md)
 
 ## Social Contract
 
