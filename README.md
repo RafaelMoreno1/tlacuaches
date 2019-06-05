@@ -22,6 +22,7 @@ I have only two spots left this year!
 
 Check our [layout/plan](https://github.com/yazpik/tlacuaches/blob/master/layout/plan.md) 
 
+Check Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md) 
 
 yazpik@gmail.com
 
