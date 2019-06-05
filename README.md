@@ -15,10 +15,12 @@ I'll provide
 - Sysads, Devs, DevOps to join on some sessions and bright us with their knowledge
 - More Fun
 
-This has NO COST, and I do not accept or make any money, this is just a simple FREE initiative.
+**This is FREE as in FREEDOM**, just a simple FREE initiative.
+
+Tlacuaches project is not a product, or a company idea, means it is not run by a company, does not offer support or services, and does not accept or make any money, it's not associated with any cloud provider, platform or any other kind of vendor.
 
 If interested, you just need to send me an email asking for more details and/or why do you want to be part of this project.
-I have only three spots this year!
+**I have only three spots this year!**
 
 ## Help/ Request for information
 
@@ -27,21 +29,20 @@ yazpik@gmail.com
 ## Motivation
 
 Tlacuaches project is a non profit initiative, the main reason is help others to have better opportunities
-See also our [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md)
 
-## Social Contract
-
-Tlacuaches project is not a product, or a company idea but myself initiative. Means it is not run by a company, does not offer support or services, and does not accept or make any money, it's not associated with any cloud provider, platform or any other kind of vendor.
-
+See also Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md)
 
 ## Donations
 
 Tlacuaches project does not accept money donations. 
 Instead, we encourage you to donate to one of [these organizations](https://github.com/fmoctezuma/tlacuaches/donations.md) to show your appreciation.
 
+If you feel you can contribute with a Lighting talk/Brownbag on any IT topic of expertise, please shoot me an email or create an issue on this repo!
+
 ## Manifestum
 Please check out Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md) 
 
+---------
 Francisco Moctezuma Villa
 
 Regards
