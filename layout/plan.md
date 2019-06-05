@@ -1,3 +1,4 @@
+# This is an outdated plan from 2016 and most likely is going to change...
 
 ## Plan 
 ### Openstack - week 1 & 2
