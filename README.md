@@ -46,6 +46,11 @@ If you feel you can contribute with a Lighting talk/Brownbag on any IT topic of 
 This is not written in stone, we can all pickup a week day that works for everyone.
 Hours are also flexible but most likely after 6:00pm CST
 
+## Important Dates
+
+- Accepting applications June 5th 2019 - June 28th 2019
+- Projected starting date the week of July 15th 2019
+
 ## Manifestum
 Please check out Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md) 
 
