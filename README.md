@@ -37,7 +37,14 @@ See also Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/maste
 Tlacuaches project does not accept money donations. 
 Instead, we encourage you to donate to one of [these organizations](https://github.com/fmoctezuma/tlacuaches/wiki/Donations) to show your appreciation.
 
+## Contributing
+
 If you feel you can contribute with a Lighting talk/Brownbag on any IT topic of expertise, please shoot me an email or create an issue on this repo!
+
+## Sessions
+
+This is not written in stone, we can all pickup a week day that works for everyone.
+Hours are also flexible but most likely after 6:00pm CST
 
 ## Manifestum
 Please check out Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md) 
