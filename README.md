@@ -32,15 +32,6 @@ Tlacuaches project is a non profit initiative, the main reason is help others to
 
 See also Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md)
 
-## Donations
-
-Tlacuaches project does not accept money donations. 
-Instead, we encourage you to donate to one of [these organizations](https://github.com/fmoctezuma/tlacuaches/wiki/Donations) to show your appreciation.
-
-## Contributing
-
-If you feel you can contribute with a Lighting talk/Brownbag on any IT topic of expertise, please shoot me an email or create an issue on this repo!
-
 ## Sessions
 
 This is not written in stone, we can all pickup a week day that works for everyone.
@@ -51,8 +42,18 @@ Hours are also flexible but most likely after 6:00pm CST
 - Accepting applications June 5th 2019 - June 28th 2019
 - Projected starting date the week of July 15th 2019
 
+## Contributing
+
+If you feel you can contribute with a Lighting talk/Brownbag on any IT topic of expertise, please shoot me an email or create an issue on this repo!
+
+## Donations
+
+Tlacuaches project does not accept money donations. 
+Instead, we encourage you to donate to one of [these organizations](https://github.com/fmoctezuma/tlacuaches/wiki/Donations) to show your appreciation.
+
 ## Manifestum
 Please check out Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md) 
+
 
 ---------
 Francisco Moctezuma Villa
