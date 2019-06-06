@@ -32,10 +32,18 @@ Tlacuaches project is a non profit initiative, the main reason is help others to
 
 See also Tlacuaches [manifestum](https://github.com/yazpik/tlacuaches/blob/master/manifestum.md)
 
+## Potential Topics 2019
+
+Do not want to dictate what to learn this year, and we can also discuss areas of interest, I have considered the next topics of interest, and again these could change and are flexible.
+
+- Linux, Containers, Kubernetes, Cloud Computing in general, Programming Languages, Networking, Monitoring
+
+I have experience running some of those services on production environments but we can also include/invite volunteers to enlight us with some additional topics of interests.
+
 ## Sessions
 
 This is not written in stone, we can all pickup a week day that works for everyone.
-Hours are also flexible but most likely after 6:00pm CST
+Hours are also flexible but most likely after 6:00pm CST, (English)
 
 ## Important Dates
 
